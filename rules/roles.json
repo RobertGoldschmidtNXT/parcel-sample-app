@@ -1,12 +1,12 @@
 {
 	"steps": [
 				{"Id": 1,
-				 "Description": "Spies learn teammates",
+				 "Description": "The spies learn their fellow teammates",
 				 "Knows": [5,6,7],
 				 "Reveals": [5,6,7]
 				},
 				{"Id": 2, 
-				 "Description": "Duke learns spies",
+				 "Description": "The Duke learns the spies",
 				 "Knows": [1],
 				 "Reveals": [5,6,7]
 				}
@@ -15,22 +15,22 @@
 	"roles":
 	[{
 		"Id": 1,
-		"Role": "Duke",
+		"Role": "The Duke",
 		"Team": "OD"
 	},
 	{
 		"Id": 2,
-		"Role": "Lvl III",
+		"Role": "Level III Dev",
 		"Team": "OD"
 	},
 	{
 		"Id": 3,
-		"Role": "Intellewater",
+		"Role": "IntelleWater",
 		"Team": "OD"
 	},
 	{
 		"Id": 4,
-		"Role": "RemoteDev",
+		"Role": "Remote Dev",
 		"Team": "OD"
 	},
 	{
@@ -45,7 +45,7 @@
 	},
 	{
 		"Id": 7,
-		"Role": "Level II",
+		"Role": "Level II Dev",
 		"Team": "OS"
 	}]
 }
